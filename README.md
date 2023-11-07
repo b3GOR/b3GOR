@@ -1,7 +1,7 @@
-Header
+[![Header](https://github.com/b3GOR/b3GOR/blob/main/assets/header.png)](https://www.kaggle.com/b3g0rr)
 
 
-About me
+## I'm biotechnologist, who trying in Data Science
 
 Languages and Tools
 
