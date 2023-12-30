@@ -10,4 +10,3 @@
 ![Pytorch](https://img.shields.io/badge/-Pytorch-090909?style=for-the-badge&logo=pytorch&logoColor=F88C00)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgreSQL&logoColor=F88C00)
 
-Follow me
